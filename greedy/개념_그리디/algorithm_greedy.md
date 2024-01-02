@@ -20,7 +20,7 @@
 - **정당성 분석** 중요!!  
   단순히 가장 좋아 보이는 것을 반족적으로 선택해도 최적의 해인지 검토해야함
 
-  ![그리디 알고리즘으로 선택한 경로](image.png)
+  ![그리디 알고리즘으로 선택한 경로](image/image.png)
 
   위와 같이 매 순간 최적의 루트로만 선택한 경로의 합은 19(5+10+4)이다.
 
@@ -104,21 +104,21 @@
   basic_greedy_1.py
 
 > **문제 설명**  
-> ![문제](image-1.png) ![문제 조건](image-2.png)
+> ![문제](image/image-1.png) ![문제 조건](image/image-2.png)
 
 ### 문제2 - 곱하기 혹은 더하기
 
 - 코드  
   basic_greedy_2.py
 
-> **문제 설명** ![문제](image-3.png)  
+> **문제 설명** ![문제](image/image-3.png)  
 > **참고**  
 > 기본적으로 프로그래밍 언어에서 int형은 21억의 수까지 계산O이므로 20억 이하의 정수 입력이 주어지는 것이 조건.
-> ![문제 조건](image-4.png)
+> ![문제 조건](image/image-4.png)
 
 ### 문제3 - 모험가 길드
 
 - 코드  
   basic_greedy_3.py
 
-> **문제 설명** ![문제1](image-5.png) ![문제2](image-6.png) ![문제 조건](image-7.png)
+> **문제 설명** ![문제1](image/image-5.png) ![문제2](image/image-6.png) ![문제 조건](image/image-7.png)
